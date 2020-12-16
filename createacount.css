@@ -1,0 +1,56 @@
+.container {
+  width: 496px;
+  height: 554px;
+  top: 294px;
+  left: 712px;
+  border: 1px solid var(---bdbdbd);
+  border: 1px solid #bdbdbd;
+  border-radius: 8px;
+  opacity: 1;
+}
+.logo {
+  width: 70px;
+  height: 70px;
+  background: #4fdbd4 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.condition > {
+  top: 856px;
+  left: 731px;
+  width: 313px;
+  height: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  text-align: left;
+
+  letter-spacing: 0.1px;
+  color: #632020;
+  opacity: 1;
+}
+.condition > p {
+  top: 856px;
+  left: 731px;
+  width: 313px;
+  height: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  text-align: center;
+  letter-spacing: 0.1px;
+  color: #632020;
+  opacity: 1;
+}
+.fg {
+  top: 621px;
+  left: 1030px;
+  width: 127px;
+  height: 20px;
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-medium) var(--unnamed-font-size-14) /
+    var(--unnamed-line-spacing-24) Poppins;
+  text-align: center;
+  font: normal normal medium 14px/24px Poppins;
+  letter-spacing: 0.1px;
+  color: #5258ff;
+  opacity: 1;
+}

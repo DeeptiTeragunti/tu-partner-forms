@@ -1,0 +1,105 @@
+.end {
+  left: 639px;
+  width: 179px;
+  height: 19px;
+  top: 398px;
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) var(--unnamed-font-size-14) / 24px
+    var(--unnamed-font-family-lato);
+  text-align: center;
+  font: normal normal normal 14px/24px Lato;
+  letter-spacing: 0.1px;
+  color: #707070;
+  opacity: 1;
+}
+.but {
+  background-color: #4a8cff;
+  color: white;
+  font: 14px;
+}
+.fg {
+  top: 294px;
+  left: 712px;
+  width: 126px;
+  height: 554px;
+}
+.fg > p {
+  top: 294px;
+  left: 712px;
+  width: 126px;
+  height: 554px;
+}
+.fg1 {
+  top: 294px;
+  left: 712px;
+  width: 126px;
+  height: 454px;
+}
+.con {
+  top: 294px;
+  left: 712px;
+  width: 496px;
+  height: 454px;
+  border: 1px solid var(---bdbdbd);
+  background: transparent 0% 0% no-repeat padding-box 300px 300px;
+  border: 2px solid #bdbdbd;
+  border-radius: 8px;
+  opacity: 1;
+}
+.fg2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  width: 700px;
+}
+.end1 {
+  top: 381px;
+  left: 770px;
+  width: 282px;
+  height: 44px;
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) var(--unnamed-font-size-36) /
+    var(--unnamed-line-spacing-44) var(--unnamed-font-family-lato);
+  color: var(--unnamed-color-424242);
+  text-align: left;
+  font: normal normal normal 36px/44px Lato;
+  letter-spacing: 0.26px;
+  color: #424242;
+  opacity: 1;
+}
+.link {
+  top: 432px;
+  left: 771px;
+  width: 427px;
+  height: 97px;
+  font: var(--unnamed-font-style-normal) normal medium
+    var(--unnamed-font-size-14) / var(--unnamed-line-spacing-17)
+    var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+
+  font: normal normal medium 14px/17px Lato;
+  letter-spacing: 0px;
+  color: #7d7d7d;
+  opacity: 1;
+}
+.end1 > h3 {
+  font-size: 29px;
+}
+
+.but1 {
+  background-color: #4a8cff;
+  color: white;
+  font: 19px;
+
+  width: 190px;
+  height: 40px;
+  margin-left: 200px;
+  background: var(--unnamed-color-4a8cff) 0% 0% no-repeat padding-box;
+  background: #4a8cff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 2px 2px #00000029;
+  border-radius: 4px;
+  opacity: 1;
+}
+.buter {
+  width: 100px;
+  height: 0px;
+}

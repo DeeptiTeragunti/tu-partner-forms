@@ -1,0 +1,14 @@
+.end {
+  top: 857px;
+  left: 739px;
+  width: 479px;
+  height: 17px;
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) var(--unnamed-font-size-14) / 24px
+    var(--unnamed-font-family-lato);
+  text-align: center;
+  font: normal normal normal 14px/24px Lato;
+  letter-spacing: 0.1px;
+  color: #707070;
+  opacity: 1;
+}
