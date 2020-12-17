@@ -1,0 +1,58 @@
+.image_logo {
+  top: 318px;
+  left: 823px;
+  width: 324px;
+  height: 80px;
+  background: transparent url("img/Mask Group 4.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.para {
+  font-size: 30px;
+  font-variant: bold;
+  text-align: center;
+}
+.icon {
+  top: 30px;
+  left: 16px;
+  width: 196px;
+  margin-right: 500px;
+  height: 20px;
+  background: transparent url("img/notifications-24px.svg") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.icon2 {
+  top: 30px;
+  left: 1842px;
+  width: 590px;
+  height: 40px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.image {
+  top: 400px;
+  left: 128px;
+  width: 323px;
+  height: 220px;
+  background: transparent url("img/core-component-image.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.tinue {
+  top: 865px;
+
+  width: 420px;
+  height: 92px;
+  margin-left: 429px;
+  background: #e4e7e8 0% 0% no-repeat padding-box 1px;
+  border-radius: 1px;
+  text-align: center;
+  opacity: 1;
+}
+.tinue > button {
+  background-color: #e4e7e8;
+  font: lato;
+  width: 280px;
+  height: 40px;
+}
